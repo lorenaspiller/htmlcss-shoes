@@ -5,3 +5,7 @@
   box-sizing: border-box;
 }
 /* /inizializzazione */
+
+body {
+  font-family: 'Rubik Mono One', sans-serif;
+}
