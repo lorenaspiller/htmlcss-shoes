@@ -35,6 +35,18 @@ header {
   text-align: right;
 }
 
+header nav {
+  position: fixed;
+  width: 100%;
+  z-index: 10;
+}
+
+nav ul {
+  position: relative;
+  top: 0;
+  right: 0;
+}
+
 /* /intestazione  */
 
 
@@ -55,12 +67,10 @@ section {
   width: 100%;
 }
 
-
 h2 {
   text-align: center;
   color: yellow;
   font-size: 50px;
-  /* margin-bottom: 80px; */
 }
 
 #green {
